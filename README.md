@@ -1,12 +1,13 @@
 Improved Training of Wasserstein GANs
 =====================================
+**this project are based on https://github.com/igul222/improved_wgan_training, fix bugs about python3.**
 
 Code for reproducing experiments in ["Improved Training of Wasserstein GANs"](https://arxiv.org/abs/1704.00028).
 
 
 ## Prerequisites
 
-- Python, NumPy, TensorFlow, SciPy, Matplotlib
+- Python 3, NumPy, TensorFlow1.7, SciPy, Matplotlib
 - A recent NVIDIA GPU
 
 ## Models
